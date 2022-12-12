@@ -7,7 +7,7 @@ h1{
 }
 
 p {
-  background-color: #bfbfbf;
+  background-color: #abd8eb;
   border: 2px solid black;
   height: 150px;
   margin-right: 10px;
@@ -64,7 +64,7 @@ p {
 
 
 .row {
-  width: 100%;
+  width: 99.99%;
 
 }
 
