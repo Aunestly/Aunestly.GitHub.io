@@ -13,7 +13,7 @@ h1{
 
 p {
   padding: 10px;
-  margin: 0;
+  margin: 5;
   background-color: #bdedff;
 }
 
@@ -25,6 +25,7 @@ p {
   margin-top: 10px;
   margin-bottom: 10px;
   padding: 10px;
+  background-color: #bdedff;
   
 }
  
