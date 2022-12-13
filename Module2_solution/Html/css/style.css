@@ -12,17 +12,12 @@ h1{
 }
 
 p {
-  background-color: #abd8eb;
-  border: 2px solid black;
-  height: 150px;
-  margin-right: 10px;
-  padding: 50px 10px 5px 10px;
-  overflow: auto;
-  position: relative;
+  padding: 10px;
+  margin: 0;
 }
 
 
-#container {
+.container {
   border: none;
   margin-left: auto;
   margin-right: auto;
@@ -31,13 +26,22 @@ p {
   padding: 10px;
   
 }
+ 
+section { 
+border: 1px solid black;
+width: 100%
+height: 200px
+background-color: #bdedff;
+font-family: Georgia;
+color: black;
+position: relative;
+overflow: auto;
+}
 
 #p1 {
+  border: 1px solid black;
   background-color: #D59898;
-  top: 0;
-  right: 0;
   font-weight: bold;
-  height: 35px;
   width: 30%;
   margin-left: 70%;
   margin-bottom: 0;
@@ -49,11 +53,9 @@ p {
 
 }
 #p2 {
-  background-color:#C14543 ;
-  top: 0;
-  right: 0;
+  border: 1px solid black;
+  background-color: #C14543;
   font-weight: bold;
-  height: 35px;
   width: 30%;
   margin-left: 70%;
   margin-bottom: 0;
@@ -65,18 +67,15 @@ p {
 
 }
 #p3 {
+  border: 1px solid black;
  background-color: #E5D198;
-  position: absolute;
-  top: 0;
-  right: 0;
   font-weight: bold;
-  height: 35px;
   width: 30%;
   margin-left: 70%;
   margin-bottom: 0;
   margin-top: 0;
   font-size: 125%;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   font-family: sans-serif, Arial, Helvetica;
 
