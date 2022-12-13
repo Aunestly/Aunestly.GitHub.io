@@ -13,7 +13,6 @@ h1{
 
 p {
   padding: 10px;
-  margin: 5;
   background-color: #bdedff;
 }
 
@@ -38,6 +37,10 @@ font-family: Georgia;
 color: black;
 position: relative;
 overflow: auto;
+}
+
+.p { 
+  background-color: #bdedff;
 }
 
 #p1 {
