@@ -39,6 +39,10 @@ position: relative;
 overflow: auto;
 }
 
+div { 
+  background-color: #bdedff;
+}
+
 .p { 
   background-color: #bdedff;
 }
