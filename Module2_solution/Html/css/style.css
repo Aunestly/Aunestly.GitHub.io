@@ -38,10 +38,6 @@ position: relative;
 overflow: auto;
 }
 
-div { 
-  background-color: #bdedff;
-}
-
 #p1 {
   border: 1px solid black;
   background-color: #D59898;
