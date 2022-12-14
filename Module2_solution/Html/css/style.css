@@ -41,6 +41,7 @@ overflow: auto;
 
 div { 
   background-color: #bdedff;
+  margin: 10px;
 }
 
 .p { 
