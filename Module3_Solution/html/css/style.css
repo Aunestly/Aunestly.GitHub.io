@@ -40,12 +40,12 @@ float: left;
 }
 
 .row > div > article { 
- background-color: white;
+ background-color: gray;
  text-align: justify;
  margin-bottom: 20px;
  padding: 12px;
  color: black;
- width: 100%;
+ width: 200%;
  }
 
 @media (max-width: 767px) {
