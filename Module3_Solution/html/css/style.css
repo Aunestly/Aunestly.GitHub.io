@@ -5,7 +5,7 @@ background-color: #661200;
 }
 
 #header-nav {
-background-color: #661200;
+background-color: black;
 border-radius: 0;
 border: 0;
 color: white;
@@ -44,7 +44,7 @@ float: left;
  text-align: justify;
  margin-bottom: 20px;
  padding: 12px;
- color: black;
+ color: white;
  width: 200%;
  }
 
