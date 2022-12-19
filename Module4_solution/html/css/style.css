@@ -2,24 +2,12 @@ body {
   font-family: 'Helvectica'
   background-color: #A0C196;
   color: white;
+  text-align: center;
   
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Georgia';
-  font-weight: 800 !important;
+  text-align: center;
 }
 
-
-@media (min-width: 992px) {
-  header.masthead {
-    padding-top: calc(10rem + 55px);
-    padding-bottom: 10rem;
-  }
-  header.masthead .masthead-content .masthead-heading {
-    font-size: 6rem;
-  }
-  header.masthead .masthead-content .masthead-subheading {
-    font-size: 4rem;
-  }
-}
